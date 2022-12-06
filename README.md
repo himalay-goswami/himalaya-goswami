@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @himalaya-goswami.
-- 👀 I’m interested in Enterprise development using Java & Spring Framework.
-- 🌱 I’m currently Reactive Java for async operations.
+- 👀 I’m a particularly boring person. Avoid me. 
+- 🌱 I’m currently working as a full stack developer using Java stack with React front-end.
 - 💞️ I’m looking to collaborate on microservices related projects (open source will be a plus).
-- 📫 Just shoot a mail @ himalayagswm@gmail.com
+- 📫 Just shoot a mail @ himalaya.gswm@hotmail.com
 
 <!---
 himalaya-goswami/himalaya-goswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
